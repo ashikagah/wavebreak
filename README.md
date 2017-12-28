@@ -16,7 +16,7 @@ Ashikaga H, Asgari-Targhi A. Locating order-disorder phase transition in a cardi
 
 2. Function `fk2d.m`, a MATLAB implementation of the Fenton-Karma model in two dimensions (2-D) from [Fenton-Karma repo](https://github.com/ashikagah/Fenton-Karma).
 
-3. Java Information Dynamics Toolkit [JIDT](https://github.com/jlizier/jidt/wiki/Installation) > v1.3.1
+3. Java Information Dynamics Toolkit [JIDT](https://github.com/jlizier/jidt/wiki/Installation) > v1.4
 
 ## Installation
 
